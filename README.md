@@ -3,7 +3,7 @@
 
 ## Setup Instructions
 
-###Database setup
+### Database setup
 1. Start MySQL Server
 2. Create database 'coursecontent'
 
