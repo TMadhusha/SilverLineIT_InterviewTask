@@ -8,7 +8,7 @@
 2. Create database 'coursecontent'
 
 ### Backend Setup
-1. Open task folder in intelliJ
+1. Open task folder in intelliJ from source code
 2. Run `TaskApplication` file
 
 ### Frontend Setup
